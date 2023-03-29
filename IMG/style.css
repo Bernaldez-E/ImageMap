@@ -1,0 +1,26 @@
+<style>
+
+div {
+	
+}
+
+.div1 {
+	margin: 5px;
+	border: 10px solid #73AD21;
+	padding: 10px;
+	overflow: auto;
+	float: center;
+}
+
+.img1 {
+	padding: 5px;
+	float:right;
+}
+
+.img2 {
+	padding: 5px;
+	float:left;
+}
+
+
+</style>
